@@ -23,7 +23,7 @@
       </thead>
       <tbody>
         <tr>
-          <td>3</td>
+          <td align='center'>3</td>
           <td>Углубленный Python</td>
           <td>
             <a href="https://github.com/dimayorov/guess_number" target="_blank">Игра: Угадай число</a>
@@ -33,7 +33,7 @@
           </td>
         </tr>
         <tr>
-          <td>4</td>
+          <td align='center'>4</td>
           <td>Алгоритмы и структуры данных</td>
           <td>
             <a href="" target="_blank"></a>
