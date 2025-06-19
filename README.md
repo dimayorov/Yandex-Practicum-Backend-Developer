@@ -42,6 +42,16 @@
             <a href="https://github.com/dimayorov/delivery_service" target="_blank">Служба доставки</a>
           </td>
         </tr>
+        <tr>
+          <td align='center'>5</td>
+          <td>Алгоритмы и структуры данных</td>
+          <td>
+            <a href="" target="_blank"></a>
+          </td>
+          <td>
+            <a href="https://github.com/dimayorov/decryption" target="_blank">Шифрованные инструкции</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
