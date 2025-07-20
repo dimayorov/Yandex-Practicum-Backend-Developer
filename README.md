@@ -52,6 +52,16 @@
             <a href="https://github.com/dimayorov/decryption" target="_blank">Шифрованные инструкции</a>
           </td>
         </tr>
+        <tr>
+          <td align='center'>6</td>
+          <td>Бэкенд на Django</td>
+          <td>
+            <a href="" target="_blank"></a>
+          </td>
+          <td>
+            <a href="https://github.com/dimayorov/django-sprint1" target="_blank">Блогикум</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
