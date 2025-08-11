@@ -62,6 +62,16 @@
             <a href="https://github.com/dimayorov/django-sprint1" target="_blank">Блогикум</a>
           </td>
         </tr>
+        <tr>
+          <td align='center'>8</td>
+          <td>Бэкенд на Django</td>
+          <td>
+            <a href="" target="_blank"></a>
+          </td>
+          <td>
+            <a href="https://github.com/dimayorov/django-sprint3" target="_blank">Публикации для Блогикума</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
