@@ -72,6 +72,16 @@
             <a href="https://github.com/dimayorov/django-sprint3" target="_blank">Публикации для Блогикума</a>
           </td>
         </tr>
+        <tr>
+          <td align='center'>10</td>
+          <td>Бэкенд на Django</td>
+          <td>
+            <a href="https://github.com/dimayorov/acme_project" target="_blank">Проект Acme</a>
+          </td>
+          <td>
+            <a href="https://github.com/dimayorov/django-sprint3" target="_blank">Публикации для Блогикума</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
