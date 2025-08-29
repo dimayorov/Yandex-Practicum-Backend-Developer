@@ -79,7 +79,7 @@
             <a href="https://github.com/dimayorov/acme_project" target="_blank">Проект Acme</a>
           </td>
           <td>
-            <a href="https://github.com/dimayorov/django-sprint3" target="_blank">Доработка Блогикума</a>
+            <a href="https://github.com/dimayorov/django-sprint4" target="_blank">Доработка Блогикума</a>
           </td>
         </tr>
       </tbody>
