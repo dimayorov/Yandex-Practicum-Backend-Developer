@@ -84,7 +84,7 @@
         </tr>
         <tr>
           <td align='center'>11</td>
-          <td>API: интерфейс взаимодействия программ</td>
+          <td>Бэкенд на Django</td>
           <td>
             <a href="" target="_blank"></a>
           </td>
