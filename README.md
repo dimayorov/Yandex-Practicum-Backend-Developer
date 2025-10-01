@@ -83,6 +83,16 @@
           </td>
         </tr>
         <tr>
+          <td align='center'>11</td>
+          <td>API: интерфейс взаимодействия программ</td>
+          <td>
+            <a href="" target="_blank"></a>
+          </td>
+          <td>
+            <a href="https://github.com/dimayorov/django-testing" target="_blank">Тестирование: Vice Versa</a>
+          </td>
+        </tr>
+        <tr>
           <td align='center'>12</td>
           <td>API: интерфейс взаимодействия программ</td>
           <td>
