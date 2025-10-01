@@ -82,6 +82,16 @@
             <a href="https://github.com/dimayorov/django-sprint4" target="_blank">Доработка Блогикума</a>
           </td>
         </tr>
+        <tr>
+          <td align='center'>12</td>
+          <td>API: интерфейс взаимодействия программ</td>
+          <td>
+            <a href="" target="_blank"></a>
+          </td>
+          <td>
+            <a href="https://github.com/dimayorov/homework-bot" target="_blank">Деплой Бота</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
