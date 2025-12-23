@@ -102,6 +102,56 @@
             <a href="https://github.com/dimayorov/homework-bot" target="_blank">Деплой Бота</a>
           </td>
         </tr>
+        <tr>
+          <td align='center'>13</td>
+          <td></td>
+          <td>
+            <a href="" target="_blank"></a>
+          </td>
+          <td>
+            <a href="" target="_blank"></a>
+          </td>
+        </tr>
+        <tr>
+          <td align='center'>14</td>
+          <td>API: интерфейс взаимодействия программ</td>
+          <td>
+            <a href="https://github.com/dimayorov/kittygram_backend/tree/main" target="_blank">Kittygram_backend</a>
+          </td>
+          <td>
+            <a href="" target="_blank"></a>
+          </td>
+        </tr>
+        <tr>
+          <td align='center'>15</td>
+          <td></td>
+          <td>
+            <a href="" target="_blank"></a>
+          </td>
+          <td>
+            <a href="https://github.com/dimayorov/api-yamdb" target="_blank">Api-yamdb</a>
+          </td>
+        </tr>
+        <tr>
+          <td align='center'>16</td>
+          <td></td>
+          <td>
+            <a href="" target="_blank"></a>
+          </td>
+          <td>
+            <a href="" target="_blank"></a>
+          </td>
+        </tr>
+        <tr>
+          <td align='center'>17</td>
+          <td></td>
+          <td>
+            <a href="" target="_blank"></a>
+          </td>
+          <td>
+            <a href="https://github.com/dimayorov/kittygram_final" target="_blank">Kittygram-final</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
