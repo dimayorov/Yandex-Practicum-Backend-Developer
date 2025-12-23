@@ -104,12 +104,12 @@
         </tr>
         <tr>
           <td align='center'>13</td>
-          <td></td>
+          <td>API: интерфейс взаимодействия программ</td>
           <td>
             <a href="" target="_blank"></a>
           </td>
           <td>
-            <a href="" target="_blank"></a>
+            <a href="https://github.com/dimayorov/kittygram_project" target="_blank">Kittygram_project</a>
           </td>
         </tr>
         <tr>
